@@ -1,5 +1,5 @@
 {
-  "name": "@leveloneproject/dfsp-account",
+  "name": "@mojaloop/dfsp-account",
   "version": "0.9.27",
   "description": "DFSP Account service",
   "main": "index.js",
@@ -55,7 +55,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:LevelOneProject/dfsp-account.git"
+    "url": "git@github.com:mojaloop/dfsp-account.git"
   },
   "engines": {
     "node": ">=4.4.7",
