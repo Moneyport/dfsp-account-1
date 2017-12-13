@@ -1,3 +1,23 @@
+<a name="0.9.29"></a>
+## [0.9.29](https://github.com/softwaregroup-bg/@mojaloop/dfsp-account/compare/v0.9.28...v0.9.29) (2017-12-07)
+
+
+### Bug Fixes
+
+* move to mojaloop ([cb9023f](https://github.com/softwaregroup-bg/@mojaloop/dfsp-account/commit/cb9023f))
+
+
+
+<a name="0.9.28"></a>
+## [0.9.28](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-account/compare/v0.9.27...v0.9.28) (2017-11-29)
+
+
+### Bug Fixes
+
+* version bump ([8270464](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-account/commit/8270464))
+
+
+
 <a name="0.9.27"></a>
 ## [0.9.27](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-account/compare/v0.9.26...v0.9.27) (2017-10-12)
 
