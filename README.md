@@ -1,6 +1,12 @@
-# Account service API
+# [DEPRECATED] Account service API
 
------
+## Deprecation Notice
+
+The dfsp-account service was deprecated as of January 2018. This service is no longer maintained as it is no longer in the scope of the Mojaloop OSS community.
+
+For a list of active Mojaloop repos, please refer to [Repo Details](https://mojaloop.io/documentation/repositories/) section in the Mojaloop documentation.
+
+## Summary
 
 This service contains information about relations between users and their accounts. Accounts contain information for the following things:
  - Which account is default for a given user;
